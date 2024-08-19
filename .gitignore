@@ -1,0 +1,4 @@
+.vagrant
+*.o
+ebpf-go-playground
+
