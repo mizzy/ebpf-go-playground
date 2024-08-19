@@ -2,3 +2,5 @@
 *.o
 ebpf-go-playground
 
+
+dist/
